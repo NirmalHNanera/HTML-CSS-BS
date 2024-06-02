@@ -1,0 +1,385 @@
+*{
+	box-sizing: border-box;
+}	
+.header{
+	width: 100%;
+	height: auto;
+	margin-top: 20px;
+	padding-bottom: 25px;
+}
+.menu{
+	width: 50%;
+	float: left;
+	text-align: right	;
+}
+.menu a{
+	text-decoration: none;
+	color: gray;
+	margin-right: 25px;
+	font-size: 12px;
+}
+.span{
+	color: black;
+	font-size: 16px;
+}
+.span1{
+	color: blue;
+	font-size: 16px;
+	margin-right: 10px;
+}
+.span2{
+	color: rgb(63, 0, 238);
+}
+.get{
+	width: 50%;
+	float: left;
+	text-align: center;	
+}
+.hr{
+	color: rgba(114, 12, 12, 0.1);
+	width: 100%;
+}
+.span3{
+	border: 1px solid gray;
+	border-radius: 1em;
+	padding: 7px 15px;
+	color: gray;
+	font-size: 12px;
+}
+.main{
+	width: 100%;
+}
+.info{
+	width: 50%;
+	float: left;
+	margin-top: 50px;
+	padding-left: 350px;
+	color: gray;
+}
+.pc{
+	width: 50%;
+	float: left;
+	padding-left: 80px;
+	margin-bottom: 30px;
+	margin-top: 30px;
+}
+h2{
+	color: black;
+}
+.span4{
+	border: 1px solid gray;
+	padding: 5px 17px;
+	float: left;
+}
+.span5{
+
+	width: 70%;
+	float: left;
+	margin-top: 6px;
+	margin-left: 10px;
+}
+.pattern1{
+	float: left;
+	width: 20%;
+	margin-left: 20%;
+	margin-top: 40px;
+	margin-bottom: 40px;
+}
+.pattern2{
+	float: left;
+	width: 20%;
+	margin-top: 40px;
+	margin-bottom: 40px;
+}
+.pattern3{
+	float: left;
+	width: 20%;
+	margin-right: 20%;
+	margin-top: 40px;
+	margin-bottom: 40px;
+}
+.span6{
+	color: gray;
+	font-size: 13px;
+}
+.span7{
+	float: left;
+	margin-right: 10px;
+}
+.pc2{
+	float: left;
+	width: 100%;
+	height: auto;
+}
+.dynamic{
+	float: left;
+	width: 40%;
+	margin-top: 65px;
+	text-align: right;
+	margin-left: 50px;
+	margin-bottom: 100px;
+}
+.dynamic1{
+	float: left;
+	width: 40%;
+	margin-top: 75px;
+	margin-left: 70px;
+}
+.dynamic1 span{
+	color: blue;
+}
+.dynamic1 p{
+	color: gray;
+}
+.total{
+	width: 80%;
+	height: auto;
+	margin-left: 220px;	
+}
+.groth{
+	border: 1px solid gray;
+	float: left;
+	width: 30%;
+	padding: 60px 30px;
+	text-align: center;
+}
+
+.pc3{
+	width: 100%;
+	float: left;
+	height: auto;
+	margin-top: 40px;
+	margin-bottom: 130px;
+	margin-left: 140px;
+}
+.span8{
+	width: 20px;
+	border: 1px solid grey;
+	background-color: blue;
+	color: white;
+	padding: 5px 17px;
+}
+.span9{
+	width: 20px;
+	border: 1px solid gray;
+	padding: 5px 17px;
+}
+.ready p{
+	color: gray;
+	margin-bottom: 50px;
+}
+.ready{
+	width: 50%;
+	float: left;
+	padding: 0px 0px 0px 220px;
+	margin-top: 90px;
+}
+.ready1{
+	width: 40%;
+	float: left;
+}
+.span10{
+	color: blue;
+}
+.center{
+	width: 100%;
+	float: left;
+	text-align: center;
+	margin-bottom: 70px;
+}
+.span11{
+	color: gray;
+	font-size: 11px;
+}
+.triangle1{
+	width: 20%;
+	float: left;
+	text-align: center;
+	margin-bottom: 80px;
+	margin-left: 280px;
+}
+.triangle2{
+	width: 20%;
+	text-align: center;
+	float: left;
+	margin-left: 30px;
+}
+.plan{
+	width: 100%;
+	float: left;
+	text-align: center;
+	margin-top: 70px;
+	font-size: 20px;
+	margin-bottom: 50px;
+}
+.member1{
+	width: 20%;
+	float: left;
+	border: 1px solid gray;
+	padding: 30px 20px;
+	text-align: center;
+	/* margin-left: 400px; */
+	margin-right: 50px;
+}
+.member1:hover{
+	background-color: rgb(79, 79, 209);
+	color: white;
+}
+.member{
+	margin-left: 400px;
+}
+.span13{
+	color: grey;
+}
+.span14{
+	font-size: 11px;
+}.span15{
+	font-size: 11px;
+	color: gray;
+	border: 1px solid gray;
+	border-radius: 1em;
+	padding: 5px 5px;
+}
+.span16{
+	font-size: 11px;
+	color: white;
+	border: 1px solid rgb(226, 225, 225);
+	border-radius: 1em;
+	padding: 5px 5px;
+}
+.man1{
+	width: 100%;
+	height: auto;
+	float: left;
+	background-color: rgb(230, 233, 236);
+	height: 20%;
+	margin-top: 100px;
+}
+.poto{
+	width: 50%;
+	float: left;
+	text-align: right;
+	padding-right: 50px;
+	padding-top: 80px;
+	padding-bottom: 80px;
+}
+.grup{
+	width: 50%;
+	float: left;
+	text-align: justify;
+	padding-top: 50px;
+	padding-left: 80px;
+	padding-top: 110px;
+}
+.touch img{
+	border: 1px solid gray;
+	border-radius: 3em;
+	padding: 3px 3px;
+}
+.touch p{
+	color: gray;
+}
+.span17{
+	font-size: 25px;
+}
+.touch{
+	float: left;
+	width: 50%;
+	padding-left: 350px;
+}
+.drop{
+	float: left;
+	width: 50%;
+	padding-left: 75px;
+	margin-bottom: 50px;
+}
+.contant{
+	margin-top: 520px;
+}
+.drop input,.drop textarea{
+	margin-top: 10px;
+}
+.drop textarea{
+	margin-bottom: 20px;
+}
+.message{
+	width: auto;
+	color: white;
+	background-color: rgb(96, 96, 224);
+	border: 1px solid black;
+	border-radius: 1em;
+	padding: 5px 10px;
+}
+.blog{
+	margin: 50px 0px 100px 0px;
+}
+.our{
+	text-align: center;
+	margin-bottom: 50px;
+}
+.sam{
+	width: 12%;
+	float: left;
+	border: 1px solid gray;
+	background-color: rgb(79, 79, 209);
+	color: lightcyan;
+	padding: 15px 30px 10px 10px;
+	border-radius: 2%;
+	margin: 0px 0px 0px 300px;
+}
+.sam2{
+	width: 12%;
+	float: left;
+	border: 1px solid gray;
+	padding: 15px 30px 10px 10px;
+	border-radius: 2%;
+	margin-left: 50px;
+}
+.sam2 img{
+	border-radius: 2em;
+}
+.what{
+	margin-top: 8px;
+}
+.what1{
+	margin-top: 8px;
+	margin-bottom: 50px
+}
+.loram{
+	color: gray;
+	font-size: 11px;
+	margin: 8px 0px 15px 0px;
+}
+.man{
+	margin-left: 35px;
+	margin-top: -33px;
+}
+.pay{
+	width: 20%;
+	float: left;
+	background-color: rgb(226, 226, 226);
+	padding: 30px 0px 30px 0px;
+	text-align: center;
+	margin-bottom: 50px;
+	
+}
+.foot{
+	width: 25%;
+	float: left;
+    padding-left: 100px;
+}
+.footer h6{
+	color: gray;
+}
+.num{
+	margin-top: 15px;
+	color: blue;
+}
+.last{
+	float: left;
+	width: 50%;
+	text-align: center;
+	margin: 30px 0px 30px 0px;		
+}
+
+
